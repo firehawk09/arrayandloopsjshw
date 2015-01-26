@@ -173,3 +173,8 @@ function charFreq(string) {
 
 console.log( charFreq("The eyes of Texas are upon you.") );
 
+//----------------------------------------------------------------------------
+
+//Reviewed and checked. As discussed, went back through what we went over in class and reviewed.
+
+//----------------------------------------------------------------------------
